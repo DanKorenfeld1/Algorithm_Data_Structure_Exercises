@@ -1,9 +1,9 @@
-## Data Structures and Algorithms Course Solutions
+# Data Structures and Algorithms Course Solutions
 
 This repository contains my solutions to exercises from the Data Structures and Algorithms courses. These courses cover fundamental concepts and implementations of various data structures and algorithms.
 
-## Topics
-# Data Structures Course Topics
+# Topics
+## Data Structures Course Topics
 
 1. Basic concepts and runtime complexity analysis
 2. Recursion and solving recurrence relations
@@ -16,7 +16,7 @@ This repository contains my solutions to exercises from the Data Structures and 
 9. Minimum Spanning Trees (Kruskal's and Prim's algorithms)
 10. Shortest path algorithms (Dijkstra's and Bellman-Ford)
 
-# Algorithms Course Topics
+## Algorithms Course Topics
 
 1. Dynamic Programming
 2. Greedy Algorithms
